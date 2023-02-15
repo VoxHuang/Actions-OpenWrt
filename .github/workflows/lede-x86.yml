@@ -1,4 +1,4 @@
-name: Build OpenWrt
+name: lede-x86
 
 on:
   repository_dispatch:
